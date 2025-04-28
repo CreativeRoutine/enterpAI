@@ -1,0 +1,7 @@
+/* It didn't used enywhere */
+
+@layer utilities {
+  .background-light850_dark100 {
+    @apply bg-light-850 dark:bg-dark-100;
+  }
+}
